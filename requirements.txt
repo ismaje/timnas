@@ -1,0 +1,7 @@
+streamlit
+pandas
+nltk
+sastrawi
+emoji
+scikit-learen
+pickle
