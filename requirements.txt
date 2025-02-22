@@ -1,7 +1,9 @@
 streamlit
 pandas
 nltk
-sastrawi
+Sastrawi
 emoji
-scikit-learen
-pickle
+imbalanced-learn
+scikit-learn
+matplotlib
+seaborn
