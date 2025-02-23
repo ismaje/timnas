@@ -20,7 +20,7 @@ def predict_sentiment(input_text):
 
 # Header dan penjelasan aplikasi
 st.title("Analisis Sentimen ⚽︎")
-st.write("Masukkan kalimat di bawah ini, dan sistem akan mendeteksi apakah kalimat tersebut positif atau negatif.")
+st.write("Aplikasi analisis sentimen menggunakan model SVM untuk memprediksi sentimen dari teks yang Anda masukkan.")
 
 
 # Input dari pengguna
