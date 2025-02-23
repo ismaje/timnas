@@ -38,3 +38,6 @@ if st.button('🔍 Prediksi Sentimen'):
             st.error(f"😠 Sentimen dari kalimat: *{sentiment}*")
     else:
         st.warning("⚠ Silakan masukkan kalimat terlebih dahulu.")
+
+st.markdown("---")
+st.write("Isma Magfirotul Yuna 21.12.1871")
